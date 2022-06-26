@@ -1,0 +1,17 @@
+{
+    "token": "OTg0NjkzNzM3ODg2MTg3NTkw.Gtqk1L.PgFfdR7gIOj7U7T2D-rUQ2aeHwtmncad4a89VY",
+    "GUILD_ID": "983856548566687755",
+    "SUCCESS_EMOJI": "✅",
+    "FAILURE_EMOJI": "❌",
+    "prefix": "a!",
+    "ERR_LOGS_CHANNEL":"983856549032235021",
+    "mongooseConnectionString": "mongodb+srv://abifikri12:abicerdas@cluster0.1pkie.mongodb.net/test",
+    "check_all_channels_Interval_in_seconds": 10,
+    "chat": {
+        "url": "http://api.brainshop.ai/get?bid=167460&key=u2q0vm2Mp3mMcypI&uid=[uid]&msg=[msg]",
+        "brainID": "167460",
+        "key": "u2q0vm2Mp3mMcypI",
+        "channel": "983856549032235020"
+    }
+
+        }

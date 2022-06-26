@@ -1,0 +1,46 @@
+{
+  "name": "aestectic-bot",
+  "version": "1.0.0",
+  "description": "## ✅ Hosting Requirements",
+  "main": "index.js",
+  "dependencies": {
+    "asynckit": "^0.4.0",
+    "canvas": "^2.9.3",
+    "chalk": "^4.1.2",
+    "delayed-stream": "^1.0.0",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.9.0",
+    "events": "^3.3.0",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "member": "^0.0.2",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.2.0",
+    "nekos.life": "^3.0.0",
+    "node-fetch": "^2.6.6",
+    "opusscript": "^0.0.8",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "promisify": "^0.0.3",
+    "systeminformation": "^5.11.22",
+    "url": "^0.11.0",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abi232a/Aestetic.git"
+  },
+  "author": "abifikri12",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.2"
+  }
+}
