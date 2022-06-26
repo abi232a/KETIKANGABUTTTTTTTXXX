@@ -31,13 +31,10 @@
     "util": "^0.12.4"
   },
   "scripts": {
-    "start": "node index.js"
+
 
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abi232a/Aestetic.git"
-  },
+
   "author": "abifikri12",
   "license": "ISC",
   "devDependencies": {

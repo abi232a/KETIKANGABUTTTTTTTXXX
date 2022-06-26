@@ -6,7 +6,6 @@ const Enmap = require("enmap");
 const client = new Client({ 
   partials: ['MESSAGE', 'CHANNEL', 'REACTION', 'GUILD_MEMBER', 'USER', 'REACTION', 'GUILD_SCHEDULED_EVENT', 'MESSAGE_CREATE'],
   intents: [
-    [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGE_TYPING, Intents.FLAGS.GUILD_MESSAGES],
     'GUILDS',
     'GUILD_MEMBERS',
     'GUILD_MESSAGES',
